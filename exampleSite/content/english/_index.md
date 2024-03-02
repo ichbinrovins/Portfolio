@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Welcome to my Portfolio"
+  content: "You can look at my blogs and work on this website, mostly in the areas of Quantum materials, semiconductor devices, quantum machine learning and algorithms."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Connect with me "
+    link: "https://www.linkedin.com/in/ichbinrovins/"
 
 # Features
 features:
