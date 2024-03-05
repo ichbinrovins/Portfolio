@@ -28,7 +28,6 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 ( #copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)" )
-
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
