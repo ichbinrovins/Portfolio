@@ -9,9 +9,9 @@ features:
       - "Master's in Physics"
       - "Research Interests:
 
--- Quantum materials
--- Semiconductor devices
--- Batteries"
+-- "Quantum materials"
+-- "Semiconductor devices"
+-- "Batteries"
       - "Research Focus:
 
 Utilizing quantum materials in:
