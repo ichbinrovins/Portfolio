@@ -3,7 +3,7 @@
 features:
   - title: "Rovins"
     image: "/images/service-1.png"
-    content: "Quantum Technology Researcher"
+    content: "Quantum Systems Researcher"
     bulletpoints:
       - "Master's in Quantum Technology from IIT Jodhpur"
       - "Master's in Physics"
