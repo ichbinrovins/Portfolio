@@ -30,7 +30,7 @@ features:
     button:
       enable: True
       label: "My CV"
-      link: "https://quillbot.com/"
+      link: "#"
 
   - title: "My Blogs"
     image: "/images/mypic/myblog.jpeg"
