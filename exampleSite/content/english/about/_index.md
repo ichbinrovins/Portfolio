@@ -1,18 +1,28 @@
 ---
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Rovins"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Quantum Technology Researcher"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "*Open-source and free* for personal and commercial use"
+      - "Master's in Quantum Technology from IIT Jodhpur"
+      - "Master's in Physics"
+      - "Research Interests:
+
+Quantum materials
+Semiconductor devices
+Batteries"
+      - "Research Focus:
+
+Utilizing quantum materials in:
+Improving semiconductor devices
+Advancing battery technology
+Enhancing properties like superconductivity and topological insulators for:
+New electronic and photonic devices"
+      - "Gratitude for joining the academic journey"
+      - "Looking forward to connecting"
     button:
-      enable: false
+      enable: True
       label: "Get Started Now"
       link: "#"
 
