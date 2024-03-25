@@ -11,11 +11,7 @@ features:
 
 
 
-      - "**Research Focus:**  Utilizing quantum materials in
-                                improving semiconductor devices ,
-                                 Advancing battery technology ,
-                                   Enhancing properties like Quantum Confinment, Strong electronic Corrrelations superconductivity and topological insulators for
-                                   New electronic and photonic devices"
+      - "**Research Focus:**  Utilizing quantum materials in improving semiconductor devices , Advancing battery technology , Enhancing properties like Quantum Confinment, Strong electronic Corrrelations superconductivity and topological insulators for New electronic and photonic devices"
       - "Gratitude for joining the academic journey"
       - "Looking forward to connecting"
     button:
