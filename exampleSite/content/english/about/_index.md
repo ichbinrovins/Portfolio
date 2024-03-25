@@ -11,12 +11,12 @@ features:
   - " Master's in Quantum Technology from IIT Jodhpur"
   -" Master's in in Physics"
 
--" **Research Interests**:"
+- **Research Interests**:
   -" Quantum materials"
   -" Semiconductor devices"
   - "Batteries"
 
--" **Research Focus**:"
+- **Research Focus**:
   -" Utilizing quantum materials in:"
     - Improving semiconductor devices
     - Advancing battery technology
