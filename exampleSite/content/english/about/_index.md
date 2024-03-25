@@ -7,10 +7,6 @@ features:
     image: "/images/mypic/qcomputer.jpeg"
     content: "Quantum technology Researcher"
     bulletpoints:
- 
-
-
-  
 - **Background**: 
   - Master's in Quantum Technology from IIT Jodhpur
   - Background in Physics
