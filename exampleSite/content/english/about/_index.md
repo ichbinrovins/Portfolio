@@ -3,9 +3,20 @@
 
 # Features
 features:
-  - title: "Quantum Computing"
+  - title: "Rovins"
     image: "/images/mypic/qcomputer.jpeg"
-    content: "Quantum computing is a diverse field which mainly included quantum machine learning, quantum algorithms, post quantum cryptography. Here I have included my work on these areas. Below are my current work in these areas"
+    content: "
+Hello and welcome to my portfolio! I'm Rovins, a researcher fascinated by quantum materials, semiconductor devices, and batteries. With a Master's in Quantum Technology from IIT Jodhpur and a background in Physics, I'm on a journey driven by curiosity and innovation.
+
+My research focuses on how quantum materials can improve semiconductor devices and batteries. I explore how special properties of these materials, like superconductivity and topological insulators, can be used in new electronic and photonic devices.
+
+I also study semiconductor devices to make them more efficient and reliable. My aim is to help advance computing, communication, and sensing technologies with these new devices.
+
+Additionally, I work on developing better batteries for storing energy sustainably. By working with different experts, I hope to contribute to a greener future.
+
+In this portfolio, you'll find my research projects, publications, and insights. Whether you're a fellow researcher, a potential collaborator, or simply curious about my work, I'm excited to share and discuss with you.
+
+Thank you for joining me on this academic journey, and I'm looking forward to connecting with you."
     bulletpoints:
       - "Quantum Gate's implementation"
       - "Realization of quantum algorithms in Qiskit"
