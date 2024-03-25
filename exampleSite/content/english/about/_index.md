@@ -4,7 +4,7 @@
 # Features
 features:
   - title: "Rovins"
-  #  image: "/images/mypic/qcomputer.jpeg"
+    image: "/images/mypic/qcomputer.jpeg"
     content: "Quantum technology Researcher"
     bulletpoints:
 - **Background**: 
@@ -45,7 +45,7 @@ features:
 This format provides a concise overview of your background, research interests, goals, and what visitors can expect from your portfolio. Let me know if you need further adjustments!
 
     button:
-      enable: True
+      enable: false
       label: "My CV"
       link: "#"
 
