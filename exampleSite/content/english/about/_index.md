@@ -7,45 +7,13 @@ features:
     image: "/images/mypic/qcomputer.jpeg"
     content: "Quantum technology Researcher"
     bulletpoints:
-- **Background**: 
-  - Master's in Quantum Technology from IIT Jodhpur
-  - Background in Physics
 
-- **Research Interests**:
-  - Quantum materials
-  - Semiconductor devices
-  - Batteries
+  - "Master's in Quantum Technology from IIT Jodhpur"
+  - " Background in Physics"
 
-- **Research Focus**:
-  - Utilizing quantum materials in:
-    - Improving semiconductor devices
-    - Advancing battery technology
-  - Enhancing properties like superconductivity and topological insulators for:
-    - New electronic and photonic devices
-
-- **Goals**:
-  - Improve efficiency and reliability of semiconductor devices
-  - Contribute to advancements in computing, communication, and sensing technologies
-  - Develop sustainable energy storage solutions through better batteries
-
-- **Portfolio Content**:
-  - Research projects
-  - Publications
-  - Insights
-  
-- **Audience**:
-  - Fellow researchers
-  - Potential collaborators
-  - Anyone interested in the work
-  
-- **Closing**:
-  - Gratitude for joining the academic journey
-  - Looking forward to connecting
-
-This format provides a concise overview of your background, research interests, goals, and what visitors can expect from your portfolio. Let me know if you need further adjustments!
 
     button:
-      enable: false
+      enable: true
       label: "My CV"
       link: "#"
 
