@@ -7,7 +7,7 @@ features:
     image: "/images/mypic/qcomputer.jpeg"
     content: "Quantum technology Researcher"
     bulletpoints:
-  Certainly! Here's the information presented in bullet points:
+ 
 
 
   
