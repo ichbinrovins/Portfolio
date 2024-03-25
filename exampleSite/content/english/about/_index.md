@@ -9,7 +9,7 @@ features:
     bulletpoints:
    
   - "Master's in Quantum Technology from IIT Jodhpur"
-  - " Master's in in Physics"
+  - "Master's in in Physics"
 
 - **Research Interests**:
   - " Quantum materials"
