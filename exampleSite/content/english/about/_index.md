@@ -11,13 +11,13 @@ features:
 
 
 
-      - "**Research Focus:**  Utilizing quantum materials in improving semiconductor devices , Advancing battery technology , Enhancing properties like Quantum Confinment, Strong electronic Corrrelations superconductivity and topological insulators for New electronic and photonic devices"
+      - "**Research Focus:**  Utilizing Quantum materials in improving semiconductor devices, Advancing battery technology, Enhancing properties like Quantum Confinment, Strong electronic Corrrelations superconductivity and topological insulators for New electronic and photonic devices"
       - "Gratitude for joining the academic journey"
       - "Looking forward to connecting"
     button:
       enable: True
-      label: "Get Started Now"
-      link: "#"
+      label: "My CV"
+      link: "https://drive.google.com/file/d/1sbCUsIASs7-KiTwm7ld4WY-ORUE_ENiB/view?usp=sharing"
 
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
