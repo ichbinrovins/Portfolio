@@ -1,3 +1,4 @@
+---
 # Features
 features:
   - title: "What's Included in Hugoplate"
