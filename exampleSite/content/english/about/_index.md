@@ -6,27 +6,26 @@ features:
   - title: "Rovins"
     image: "/images/mypic/qcomputer.jpeg"
     content: "Quantum technology Researcher"
-    bulletpoints:"
-   
+    bulletpoints:
   - "Master's in Quantum Technology from IIT Jodhpur"
   - "Master's in in Physics"
 
-- **Research Interests**:
+- "**Research Interests**:"
   - " Quantum materials"
   - " Semiconductor devices"
   - "Batteries"
 
-- **Research Focus**:
+- "**Research Focus**:"
   - " Utilizing quantum materials in:"
-    - Improving semiconductor devices
-    - Advancing battery technology
+     Improving semiconductor devices
+     Advancing battery technology
   - " Enhancing properties like Quantum Confinement, Strong electronic correlations, superconductivity and topological insulators for:"
-    - New electronic and photonic devices
+     New electronic and photonic devices
  
   - "Gratitude for joining the academic journey"
   - " Looking forward to connecting"
 
-"
+
     button:
       enable: True
       label: "My CV"
