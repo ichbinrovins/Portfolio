@@ -7,10 +7,11 @@ features:
     bulletpoints:
       - "Master's in Quantum Technology from IIT Jodhpur"
       - "Master's in Physics"
-      - "**Research Interests:**
-               - "Quantum materials"
-               -  "Semiconductor devices"
-               -  " Batteries"
+      - "**Research Interests:**"
+      - "Quantum materials"
+      - "Semiconductor devices"
+      - "Batteries"
+
 
 
       - "**Research Focus:**  Utilizing quantum materials in:
