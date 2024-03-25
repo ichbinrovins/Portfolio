@@ -5,22 +5,36 @@
 features:
   - title: "Rovins"
     image: "/images/mypic/qcomputer.jpeg"
-    content: "
-Hello and welcome to my portfolio! I'm Rovins, a researcher fascinated by quantum materials, semiconductor devices, and batteries. With a Master's in Quantum Technology from IIT Jodhpur and a background in Physics, I'm on a journey driven by curiosity and innovation.
-
-My research focuses on how quantum materials can improve semiconductor devices and batteries. I explore how special properties of these materials, like superconductivity and topological insulators, can be used in new electronic and photonic devices.
-
-I also study semiconductor devices to make them more efficient and reliable. My aim is to help advance computing, communication, and sensing technologies with these new devices.
-
-Additionally, I work on developing better batteries for storing energy sustainably. By working with different experts, I hope to contribute to a greener future.
-
-In this portfolio, you'll find my research projects, publications, and insights. Whether you're a fellow researcher, a potential collaborator, or simply curious about my work, I'm excited to share and discuss with you.
-
-Thank you for joining me on this academic journey, and I'm looking forward to connecting with you."
+    content: " Quantum technology Researcher"
     bulletpoints:
-      - "Quantum Gate's implementation"
-      - "Realization of quantum algorithms in Qiskit"
-      - "Various quantum machine learning algorithms"
+      - "Certainly! Here's the information presented in bullet points:
+  
+- **Background**: 
+  - Master's in Quantum Technology from IIT Jodhpur
+  - Master's in in Physics
+
+- **Research Interests**:
+  - Quantum materials
+  - Semiconductor devices
+  - Batteries
+
+- **Research Focus**:
+  - Utilizing quantum materials in:
+    - Improving semiconductor devices
+    - Advancing battery technology
+  - Enhancing properties like Quantum Confinement, Strong electronic correlations, superconductivity and topological insulators for:
+    - New electronic and photonic devices
+ 
+- **Audience**:
+  - Fellow researchers
+  - Potential collaborators
+  - Anyone interested in the work
+  
+- **Closing**:
+  - Gratitude for joining the academic journey
+  - Looking forward to connecting
+
+This format provides a concise overview of your background, research interests, goals, and what visitors can expect from your portfolio. Let me know if you need further adjustments!"
     button:
       enable: false
       label: "Get Started Now"
