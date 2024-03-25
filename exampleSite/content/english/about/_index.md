@@ -4,9 +4,9 @@
 # Features
 features:
   - title: "Rovins"
-    #image: "/images/mypic/qcomputer.jpeg"
-    content: " Quantum technology Researcher"
-    bulletpoints:
+    image: "/images/mypic/qcomputer.jpeg"
+    content: "Quantum technology Researcher"
+    bulletpoints:"
    
   - "Master's in Quantum Technology from IIT Jodhpur"
   - "Master's in in Physics"
@@ -26,7 +26,7 @@ features:
   - "Gratitude for joining the academic journey"
   - " Looking forward to connecting"
 
-
+"
     button:
       enable: True
       label: "My CV"
