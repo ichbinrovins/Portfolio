@@ -4,7 +4,7 @@
 # Features
 features:
   - title: "Rovins"
-    image: "/images/mypic/qcomputer.jpeg"
+  #  image: "/images/mypic/qcomputer.jpeg"
     content: "Quantum technology Researcher"
     bulletpoints:
 - **Background**: 
