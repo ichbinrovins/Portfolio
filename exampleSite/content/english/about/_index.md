@@ -7,17 +7,14 @@ features:
     bulletpoints:
       - "Master's in Quantum Technology from IIT Jodhpur"
       - "Master's in Physics"
-      - "**Research Interests:**"
-      - "Quantum materials"
-      - "Semiconductor devices"
-      - "Batteries"
+      - "**Research Interests:** Quantum materials , Semiconductor devices , Batteries"
 
 
 
-      - "**Research Focus:**  Utilizing quantum materials in:
-                                Improving semiconductor devices
-                                 Advancing battery technology
-                                   Enhancing properties like superconductivity and topological insulators for:
+      - "**Research Focus:**  Utilizing quantum materials in
+                                improving semiconductor devices ,
+                                 Advancing battery technology ,
+                                   Enhancing properties like Quantum Confinment, Strong electronic Corrrelations superconductivity and topological insulators for
                                    New electronic and photonic devices"
       - "Gratitude for joining the academic journey"
       - "Looking forward to connecting"
