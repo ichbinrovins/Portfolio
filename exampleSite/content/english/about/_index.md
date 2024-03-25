@@ -1,36 +1,40 @@
----
-
 # Features
-
-  
-
-
+features:
+  - title: "What's Included in Hugoplate"
+    image: "/images/service-1.png"
+    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    bulletpoints:
+      - "10+ Pre-build pages"
+      - "95+ Google Pagespeed Score"
+      - "Build with Hugo and TailwindCSS for easy and customizable styling"
+      - "Fully responsive on all devices"
+      - "SEO-optimized for better search engine rankings"
+      - "*Open-source and free* for personal and commercial use"
     button:
-      enable: true
-      label: "My CV"
+      enable: false
+      label: "Get Started Now"
       link: "#"
 
-  - title: "My Blogs"
-    image: "/images/mypic/myblog.jpeg"
-    content: "Along with documenting my work, I have started writing blogs on quantum computing. I write blogs majorly in the below areas"
+  - title: "Discover the Key Features Of Hugo"
+    image: "/images/service-2.png"
+    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
-      - "Quantum mechanics"
-      - "Quantum computing"
-      - "Current trends in quantum computing"
+      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
+      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
+      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
       enable: true
-      label: "Click here to Read"
-      link: "https://github.com/thirumalai-97"
+      label: "Get Started Now"
+      link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "Machine Learning Models"
-    image: "/images/mypic/NNbnw.jpeg"
-    content: "I have included my code for ML models that I have worked on during my ML course at IIT, Jodhpur. Below are the algorithms that I have used. Check out my work for code."
+  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+    image: "/images/service-3.png"
+    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
-      - "K Nearest Neighbor algorithm"
-      - "Convolutional neural network"
-      - "K means clustering"
-      - "Gaussian Distribution"
-      - "Support vector machine"
+      - "Instantly load static sites for better user experience and SEO."
+      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
+      - "Use any front-end library or framework, or build custom components, for any project size."
+      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     button:
       enable: false
       label: ""
