@@ -4,16 +4,9 @@ features:
   - title: "Rovins"
     image: "/images/service-1.png"
     content: "Quantum Systems Researcher"
-    bulletpoints:
-      - "Master's in Quantum Technology from IIT Jodhpur"
-      - "Master's in Physics"
-      - "**Research Interests:** Quantum materials , Semiconductor devices , Batteries"
+    
 
-
-
-      - "**Research Focus:**  Utilizing Quantum materials in improving semiconductor devices, Advancing battery technology, Enhancing properties like Quantum Confinment, Strong electronic Corrrelations superconductivity and topological insulators for New electronic and photonic devices"
-      - "Gratitude for joining the academic journey"
-      - "Looking forward to connecting"
+"Hello! I'm Rovins, currently pursuing an M.Tech in Quantum Technology at IIT Jodhpur. My academic and research journey is dedicated to the synthesis and characterization of 2D quantum materials, particularly for their innovative applications in sensor technology. I am deeply fascinated by the potential of these materials to revolutionize areas such as gas sensing and photodetection. My work involves cutting-edge research in nanofabrication and the use of Density Functional Theory (DFT) for insightful material analysis. Additionally, I am passionate about integrating machine learning techniques to enhance the design and functionality of quantum materials. Through my studies and research, I strive to push the boundaries of technology and contribute to advancements that can have a profound impact on sensor applications and beyond. Feel free to explore my portfolio and connect with me to discuss exciting developments in quantum materials and sensor technologies!"
     button:
       enable: True
       label: "My CV"
