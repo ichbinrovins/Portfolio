@@ -12,9 +12,9 @@ features:
       label: "My CV"
       link: "https://drive.google.com/file/d/1sbCUsIASs7-KiTwm7ld4WY-ORUE_ENiB/view?usp=sharing"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Education"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: " "
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
