@@ -28,7 +28,7 @@ features:
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
+      - "Graduate Aptitude Test in Engineering(GATE) IIsc Banglore, All India Rank - 1132 2024"
       - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
       - "Use any front-end library or framework, or build custom components, for any project size."
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
