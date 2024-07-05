@@ -26,7 +26,7 @@ features:
 
   - title: "Achievements"
     image: "/images/service-3.png"
-    content: "Live as if you were to die tomorrow. Learn as if you were to live forever. — Mahatma Gandhi"
+    content: "Live as if you were to die tomorrow. Learn as if you were to live forever.        — Mahatma Gandhi"
 
     bulletpoints:
       - "Graduate Aptitude Test in Engineering(GATE), IIsc Banglore, All India Rank - 1132, 2024"
