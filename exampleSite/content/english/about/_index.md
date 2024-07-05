@@ -26,7 +26,8 @@ features:
 
   - title: "Achievements"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Live as if you were to die tomorrow. Learn as if you were to live forever. — Mahatma Gandhi"
+
     bulletpoints:
       - "Graduate Aptitude Test in Engineering(GATE), IIsc Banglore, All India Rank - 1132, 2024"
       - "Graduate Aptitude Test in Engineering(GATE), IIT Kanpur, All India Rank - 591, 2023"
