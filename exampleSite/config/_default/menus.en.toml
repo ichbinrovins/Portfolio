@@ -18,33 +18,26 @@ weight = 2
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Education"
+weight = 3
 hasChildren = true
 
 [[main]]
-parent = "Pages"
 name = "Blog"
 url = "blog/"
+weight = 4
 
 [[main]]
-parent = "Pages"
 name = "Contact"
 url = "contact/"
+weight = 5
 
 [[main]]
 parent = "Pages"
 name = "Authors"
 url = "authors/"
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
 
 
 # footer menu
@@ -53,12 +46,9 @@ name = "About"
 url = "about/"
 weight = 1
 
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
+name = "Contact"
+url = "contact/"
+weight = 2
+
