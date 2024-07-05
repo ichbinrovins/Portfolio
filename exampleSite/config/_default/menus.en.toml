@@ -17,7 +17,6 @@ weight = 2
 # weight = 3
 
 [[main]]
-weight = 4
 name = "Education"
 weight = 3
 hasChildren = true
@@ -32,10 +31,6 @@ name = "Contact"
 url = "contact/"
 weight = 5
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
 
 
 
