@@ -16,7 +16,7 @@ features:
     image: "/images/service-2.png"
     content: " "
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
+      - "Master of Technology (MTech) in Quantum Technology at IIT Jodhpur"
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
