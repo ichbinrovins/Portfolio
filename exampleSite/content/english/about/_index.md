@@ -32,7 +32,7 @@ features:
       - "Graduate Aptitude Test in Engineering(GATE), IIsc Banglore, All India Rank - 1132, 2024"
       - "Graduate Aptitude Test in Engineering(GATE), IIT Kanpur, All India Rank - 591, 2023"
       - " National Eligibility Test (NET), CSIR India, Eligibilty for Assistant Professor , All India Rank- 37, 2023"
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      
     button:
       enable: false
       label: ""
