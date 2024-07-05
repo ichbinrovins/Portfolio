@@ -16,9 +16,9 @@ features:
     image: "/images/service-2.png"
     content: " "
     bulletpoints:
-      - "Master of Technology (MTech) in Quantum Technology at IIT Jodhpur (Present)"
-      - "Master of Science (MSc) in Physics at Dr Bhimrao Ambedkar University, Agra, UP, India"
-      - "Bachelor of Science (BSc) in Physics at Dr Bhimrao Ambedkar University, Agra, UP, India"
+      - "Master of Technology (MTech) in Quantum Technology, IIT Jodhpur, India (Present)"
+      - "Master of Science (MSc) in Physics, Dr Bhimrao Ambedkar University, Agra, UP, India"
+      - "Bachelor of Science (BSc), Dr Bhimrao Ambedkar University, Agra, UP, India"
     button:
       enable: true
       label: "Get Started Now"
