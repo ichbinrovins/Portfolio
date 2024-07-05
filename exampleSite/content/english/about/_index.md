@@ -21,7 +21,7 @@ features:
       - "Bachelor of Science (BSc), Dr Bhimrao Ambedkar University, Agra, UP, India"
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Know More"
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Achievements"
