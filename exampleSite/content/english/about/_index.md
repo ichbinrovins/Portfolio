@@ -16,9 +16,9 @@ features:
     image: "/images/service-2.png"
     content: " "
     bulletpoints:
-      - "Master of Technology (MTech) in Quantum Technology at IIT Jodhpur"
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Master of Technology (MTech) in Quantum Technology at IIT Jodhpur (Present)"
+      - "Master of Science (MSc) in Physics at Dr Bhimrao Ambedkar University, Agra, UP, India"
+      - "Bachelor of Science (BSc) in Physics at Dr Bhimrao Ambedkar University, Agra, UP, India"
     button:
       enable: true
       label: "Get Started Now"
