@@ -19,7 +19,7 @@ weight = 2
 [[main]]
 name = "Education"
 weight = 3
-url = "Education/"
+url = "education/"
 
 
 [[main]]
