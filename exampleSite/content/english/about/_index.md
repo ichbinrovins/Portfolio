@@ -41,6 +41,7 @@ features:
  - title: "Research"
     image: "/images/service-2.png"
     content: " "
+   
     bulletpoints:
       - "Master of Technology (MTech) in Quantum Technology, IIT Jodhpur, India (Present)"
       - "Master of Science (MSc) in Physics, Dr Bhimrao Ambedkar University, Agra, UP, India"
@@ -49,5 +50,4 @@ features:
       enable: true
       label: "Know More"
       link: "https://github.com/zeon-studio/hugoplate"
-
 ---
