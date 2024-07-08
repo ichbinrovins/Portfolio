@@ -24,6 +24,19 @@ features:
       label: "Know More"
       link: "https://github.com/zeon-studio/hugoplate"
 
+ - title: "Research"
+    image: "/images/service-2.png"
+    content: " "
+   
+    bulletpoints:
+      - "Master of Technology (MTech) in Quantum Technology, IIT Jodhpur, India (Present)"
+      - "Master of Science (MSc) in Physics, Dr Bhimrao Ambedkar University, Agra, UP, India"
+      - "Bachelor of Science (BSc), Dr Bhimrao Ambedkar University, Agra, UP, India"
+    button:
+      enable: true
+      label: "Know More"
+      link: "https://github.com/zeon-studio/hugoplate"
+
   - title: "Achievements"
     image: "/images/service-3.png"
     content: "Live as if you were to die tomorrow. Learn as if you were to live forever.        — Mahatma Gandhi"
@@ -38,16 +51,5 @@ features:
       label: ""
       link: ""
     
- - title: "Research"
-    image: "/images/service-2.png"
-    content: " "
-   
-    bulletpoints:
-      - "Master of Technology (MTech) in Quantum Technology, IIT Jodhpur, India (Present)"
-      - "Master of Science (MSc) in Physics, Dr Bhimrao Ambedkar University, Agra, UP, India"
-      - "Bachelor of Science (BSc), Dr Bhimrao Ambedkar University, Agra, UP, India"
-    button:
-      enable: true
-      label: "Know More"
-      link: "https://github.com/zeon-studio/hugoplate"
+
 ---
