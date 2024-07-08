@@ -19,15 +19,16 @@ features:
     button:
       enable: true
       label: "Know More"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://github.com/zeon-studio/hugopla"
 
   - title: "Research"
     image: "/images/service-2.png"
-    content: " "
+    content: "I am currently focused on the synthesis and characterization of 2D quantum materials for sensor applications. My research interests include the synthesis of 2D materials, the development of gas sensors, photodetectors, and advanced techniques in nanofabrication. I also use Density Functional Theory (DFT) for material analysis and incorporate machine learning to enhance the design and performance of these technologies. "
     bulletpoints:
-      - "Master of Technology (MTech) in Quantum Technology, IIT Jodhpur, India (Present)"
-      - "Master of Science (MSc) in Physics, Dr Bhimrao Ambedkar University, Agra, UP, India"
-      - "Bachelor of Science (BSc), Dr Bhimrao Ambedkar University, Agra, UP, India"
+      - "2D Materials"
+      - "Synthesis and Characterization"
+      - "Sensors and Detectors"
+      - - "Machine Learning"
     button:
       enable: true
       label: "Know More"
