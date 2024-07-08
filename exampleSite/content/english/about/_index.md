@@ -39,9 +39,9 @@ features:
     image: "/images/service-3.png"
     content: "Live as if you were to die tomorrow. Learn as if you were to live forever. — Mahatma Gandhi"
     bulletpoints:
-      - "Graduate Aptitude Test in Engineering (GATE), IISc Bangalore, All India Rank - 1132, 2024"
-      - "Graduate Aptitude Test in Engineering (GATE), IIT Kanpur, All India Rank - 591, 2023"
-      - "National Eligibility Test (NET), CSIR India, Eligibility for Assistant Professor, All India Rank - 37, 2023"
+      - "Graduate Aptitude Test in Engineering (GATE)-2024, IISc Bangalore, All India Rank - 1132"
+      - "Graduate Aptitude Test in Engineering (GATE)-2023, IIT Kanpur, All India Rank - 591"
+      - "National Eligibility Test (NET)-2023, CSIR India, Eligibility for Assistant Professor, All India Rank - 37"
     button:
       enable: false
       label: ""
