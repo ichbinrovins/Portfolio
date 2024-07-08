@@ -28,7 +28,8 @@ features:
       - "2D Materials"
       - "Synthesis and Characterization"
       - "Sensors and Detectors"
-      - - "Machine Learning"
+      - "Machine Learning"
+    
     button:
       enable: true
       label: "Know More"
