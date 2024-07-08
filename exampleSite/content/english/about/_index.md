@@ -37,7 +37,8 @@ features:
       enable: false
       label: ""
       link: ""
-      - title: "Research"
+    
+ - title: "Research"
     image: "/images/service-2.png"
     content: " "
     bulletpoints:
