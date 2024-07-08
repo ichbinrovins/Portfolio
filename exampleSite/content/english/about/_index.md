@@ -19,7 +19,7 @@ features:
     button:
       enable: true
       label: "Know More"
-      link: "https://github.com/zeon-studio/hugopla"
+      link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Research"
     image: "/images/service-2.png"
