@@ -19,7 +19,8 @@ weight = 2
 [[main]]
 name = "Education"
 weight = 3
-#hasChildren = true
+url = "Education/"
+
 
 [[main]]
 name = "Research"
