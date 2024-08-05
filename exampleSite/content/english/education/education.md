@@ -8,7 +8,7 @@ features:
      currently pursuing an M.Tech in Quantum Technology at IIT Jodhpur. My academic and research journey is dedicated to the synthesis and characterization of 2D quantum materials, particularly for their innovative applications in sensor technology. I am deeply fascinated by the potential of these materials to revolutionize areas such as gas sensing and photodetection. My work involves cutting-edge research in nanofabrication and the use of Density Functional Theory (DFT) for insightful material analysis. Additionally, I am passionate about integrating machine learning techniques to enhance the design and functionality of quantum materials. Through my studies and research, I strive to push the boundaries of technology and contribute to advancements that can have a profound impact on sensor applications and beyond. Feel free to explore my portfolio and connect with me to discuss exciting developments in quantum materials and sensor technologies!"
 
     button:
-      enable: True
+      enable: true
       label: "My CV"
       link: "https://drive.google.com/file/d/1sbCUsIASs7-KiTwm7ld4WY-ORUE_ENiB/view?usp=sharing"
 
