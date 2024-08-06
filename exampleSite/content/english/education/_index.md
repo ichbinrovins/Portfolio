@@ -14,15 +14,15 @@ features:
       label: "My CV"
       link: "https://drive.google.com/file/d/1sbCUsIASs7-KiTwm7ld4WY-ORUE_ENiB/view?usp=sharing"
 
-  - title: "Education"
+  - title: "Master of Science (MSc) in Physics"
     image: "/images/service-2.png"
-    content: " "
+    content: "Completed a Master of Science in Physics, which provided a solid foundation in classical and modern physics principles. This program at St. John's College emphasized critical thinking and analytical skills, covering diverse topics such as quantum mechanics, thermodynamics, and electromagnetism. It laid the groundwork for my current specialization in quantum technologies, equipping me with the theoretical knowledge and experimental skills necessary for advanced research in the field.  "
     bulletpoints:
-      - "Master of Technology (MTech) in Quantum Technology, IIT Jodhpur, India (Present)"
-      - "Master of Science (MSc) in Physics, Dr Bhimrao Ambedkar University, Agra, UP, India"
-      - "Bachelor of Science (BSc), Dr Bhimrao Ambedkar University, Agra, UP, India"
+      - "Dr. Bhimrao Ambedkar University, Agra"
+      - "2019 - 2021"
+
     button:
-      enable: true
+      enable: false
       label: "Know More"
       link: "https://github.com/zeon-studio/hugoplate"
 
