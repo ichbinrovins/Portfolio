@@ -19,7 +19,7 @@ features:
     button:
       enable: true
       label: "Know More"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "exampleSite/content/english/education/_index.md"
 
   - title: "Research"
     image: "/images/Picture1.png"
