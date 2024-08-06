@@ -15,7 +15,7 @@ features:
       link: "https://drive.google.com/file/d/1sbCUsIASs7-KiTwm7ld4WY-ORUE_ENiB/view?usp=sharing"
 
   - title: "Master of Science (MSc) in Physics"
-    image: "/images/Dr_B._R._Ambedkar_University_Logo.png"
+    image: "/images/Picture1.png"
     content: "Completed a Master of Science in Physics, which provided a solid foundation in classical and modern physics principles. This program at St. John's College emphasized critical thinking and analytical skills, covering diverse topics such as quantum mechanics, thermodynamics, and electromagnetism. It laid the groundwork for my current specialization in quantum technologies, equipping me with the theoretical knowledge and experimental skills necessary for advanced research in the field.  "
     bulletpoints:
       - "Dr. Bhimrao Ambedkar University, Agra"
@@ -27,7 +27,7 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Bachelor of Science (BSc) "
-    image:  "/images/Dr_B._R._Ambedkar_University_Logo.png"
+    image:  "/images/Picture1.png"
     content: "Completed a Bachelor of Science in Science and Mathematics, which provided a comprehensive introduction to the fundamental concepts and theories across multiple scientific disciplines. This program at St. John's College covered a wide range of topics, including mechanics, optics, calculus, linear algebra, and statistical methods, offering a robust foundation in scientific and mathematical principles. During my undergraduate studies, I developed strong analytical and problem-solving skills, gaining hands-on experience through laboratory work and collaborative projects."
 
     bulletpoints:
