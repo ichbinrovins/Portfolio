@@ -3,7 +3,7 @@
 features:
   - title: "Mtech- Quantum Technologies"
     image: "/images/service-1.png"
-    content: "
+    content: " "
 
     button:
       enable: true
