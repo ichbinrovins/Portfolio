@@ -2,7 +2,7 @@
 # Features
 features:
   - title: "Mtech- Quantum Technologies"
-    image: "Indian_Institute_of_Technology_Jodhpur_Logo.svg.png"
+    image: "images/iitj.png"
     content: " "
 
     button:
