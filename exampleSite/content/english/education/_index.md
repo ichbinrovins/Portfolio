@@ -26,17 +26,16 @@ features:
       label: "Know More"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "Achievements"
-    image: "/images/service-3.png"
-    content: "Live as if you were to die tomorrow. Learn as if you were to live forever.        — Mahatma Gandhi"
+  - title: "Bachelor of Science (BSc) "
+    image:  "/images/Dr_B._R._Ambedkar_University_Logo.png"
+    content: "Completed a Bachelor of Science in Science and Mathematics, which provided a comprehensive introduction to the fundamental concepts and theories across multiple scientific disciplines. This program at St. John's College covered a wide range of topics, including mechanics, optics, calculus, linear algebra, and statistical methods, offering a robust foundation in scientific and mathematical principles. During my undergraduate studies, I developed strong analytical and problem-solving skills, gaining hands-on experience through laboratory work and collaborative projects."
 
     bulletpoints:
-      - "Graduate Aptitude Test in Engineering(GATE), IIsc Banglore, All India Rank - 1132, 2024"
-      - "Graduate Aptitude Test in Engineering(GATE), IIT Kanpur, All India Rank - 591, 2023"
-      - " National Eligibility Test (NET), CSIR India, Eligibilty for Assistant Professor , All India Rank- 37, 2023"
-      
+      - "Dr. Bhimrao Ambedkar University, Agra"
+      - "2019 - 2021"
+
     button:
-      enable: true
+      enable: false
       label: ""
       link: ""
 ---
