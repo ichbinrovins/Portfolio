@@ -1,9 +1,12 @@
 ---
 # Features
 features:
-  - title: "Mtech- Quantum Technologies"
+  - title: "Master of Technology (MTech) in Quantum Technologies"
     image: "images/iitj.png"
-    content: " "
+        bulletpoints:
+      - "Indian Institute of Technology (IIT) Jodhpur"
+      - "July 2023 - Present"
+    content: "Pursuing an advanced degree in Quantum Technologies at IIT Jodhpur, specializing in Quantum Materials and Devices.  The curriculum integrates theoretical foundations with practical research, focusing on the development of innovative quantum devices. Engaged in exploring the intersection of quantum physics and material science. My research aims to advance the field of quantum materials by leveraging machine learning and computational methods for enhanced material design and device performance. "
 
     button:
       enable: true
