@@ -32,7 +32,7 @@ features:
 
     bulletpoints:
       - "Dr. Bhimrao Ambedkar University, Agra"
-      - "2019 - 2021"
+      - "2016 - 2019"
 
     button:
       enable: false
