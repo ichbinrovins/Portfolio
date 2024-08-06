@@ -22,7 +22,7 @@ features:
       link: "education/"
 
   - title: "Research"
-    image: "/images/Picture1.png"
+    image: "/images/service-2.png"
     content: "I am currently focused on the synthesis and characterization of 2D quantum materials for sensor applications. My research interests include the synthesis of 2D materials, the development of gas sensors, photodetectors, and advanced techniques in nanofabrication. I also use Density Functional Theory (DFT) for material analysis and incorporate machine learning to enhance the design and performance of these technologies. "
     bulletpoints:
       - "2D Materials"
