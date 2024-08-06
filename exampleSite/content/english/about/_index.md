@@ -19,7 +19,7 @@ features:
     button:
       enable: true
       label: "Know More"
-      link: "exampleSite/content/english/education/_index.md"
+      link: "education/"
 
   - title: "Research"
     image: "/images/Picture1.png"
