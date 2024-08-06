@@ -47,9 +47,6 @@
             <h2 class="mb-4">
               {{ .title | markdownify }}
             </h2>
-            <p class="mb-8 text-lg">
-              {{ .content | markdownify }}
-            </p>
             <ul>
               {{ range .bulletpoints }}
                 <li class="relative mb-4 pl-6">
@@ -58,6 +55,10 @@
                 </li>
               {{ end }}
             </ul>
+            <p class="mb-8 text-lg">
+              {{ .content | markdownify }}
+            </p>
+
             {{ with .button }}
               {{ if .enable }}
                 <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
