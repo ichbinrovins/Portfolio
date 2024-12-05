@@ -7,7 +7,7 @@ features:
       - "Image Classification by Quantum Convolutional Neural Network"
       - "Effect of Amplitude Damping and Generalized Amplitude Damping Channels on Bell States"
       - "Wireless Sensor Networks and Nanomaterial Solutions for Pollution Mitigation"
-    image: "images/Design-of-New-Logo-of-IITJ-2.png"
+    image: ""
 
     content: |
       ### Synthesis and Characterization of 2D Transition Metal Dichalcogenides (TMDCs)
