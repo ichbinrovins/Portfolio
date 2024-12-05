@@ -22,7 +22,7 @@ testimonials:
   - name: "Pollution Mitigation Using Nanomaterials"
     designation: "Environmental Applications"
     avatar: "/images/avatar-sm.png"
-    content: "Designed wireless sensor networks integrated with nanomaterials to monitor and mitigate indoor air pollution. This project explored innovative solutions for improving indoor air quality through advanced sensing technologies."
+    content: " Designed wireless sensor networks integrated with nanomaterials to monitor and mitigate indoor air pollution. This project explored innovative solutions for improving indoor air quality through advanced sensing technologies."
 
     
 
