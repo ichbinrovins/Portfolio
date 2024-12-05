@@ -7,7 +7,7 @@ features:
       - "Characterization using tools such as SEM, Raman Spectroscopy, and Gas Sensing setups"
     image: ""
     content: |
-      This project focuses on synthesizing 2D TMDCs for quantum material applications. Advanced fabrication techniques are utilized to explore their properties for sensing and optoelectronic applications.
+      This project focuses on synthesizing 2D TMDCs quantum materials. Advanced fabrication techniques are utilized to explore their properties for sensing and optoelectronic applications.
     button:
       enable: false
       label: ""
@@ -19,7 +19,7 @@ features:
       - "Leveraging platforms like Google Colab, PennyLane, and Qiskit"
     image: ""
     content: |
-      This project explores quantum computing applications in image classification. QCNNs are developed to process and classify images efficiently, highlighting the potential of quantum machine learning.
+      In this project i explored quantum computing applications in image classification. QCNNs are developed to process and classify images efficiently, highlighting the potential of quantum machine learning.
     button:
       enable: false
       label: ""
