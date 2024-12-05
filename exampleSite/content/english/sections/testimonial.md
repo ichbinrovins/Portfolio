@@ -13,12 +13,13 @@ testimonials:
     designation: "Quantum Computing"
     avatar: "/images/avatar-sm.png"
     content: " Implemented Quantum Convolutional Neural Networks (QCNNs) to process and classify images efficiently. Leveraged platforms like Google Colab, PennyLane, and Qiskit to demonstrate the potential of quantum machine learning in complex data analysis tasks."
-    
- - name: "Effect of Noise on Quantum States"
-    designation: "Quantum Information"
+
+ - name: "Quantum Machine Learning for Image Classification"
+    designation: "Quantum Computing"
     avatar: "/images/avatar-sm.png"
-    content: "  Investigated the effects of amplitude damping and generalized amplitude damping channels on Bell states using Mathematica. This research provided insights into noise impact on coherence and entanglement in quantum systems."
-   
+    content: " Implemented Quantum Convolutional Neural Networks (QCNNs) to process and classify images efficiently. Leveraged platforms like Google Colab, PennyLane, and Qiskit to demonstrate the potential of quantum machine learning in complex data analysis tasks."
+    
+    
 
 
 
