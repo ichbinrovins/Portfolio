@@ -1,27 +1,34 @@
 ---
-# Key Highlights
 enable: true
-title: "Key Research Contributions"
-description: "An overview of significant contributions and projects in quantum materials and related fields."
+title: "Research Highlights"
+description: "An overview of my key research projects and contributions in quantum materials and applications."
 
 # Highlights
-highlights:
-  - title: "2D Material Synthesis"
+features:
+  - name: "Synthesis and Characterization of 2D TMDCs"
+    designation: "Quantum Materials"
+    avatar: "/images/avatar-sm.png"
     content: |
-      Developed efficient protocols for the large-area synthesis of 2D TMDCs using advanced fabrication techniques like CVD and LPCVD, enhancing their application in quantum devices.
+      Focused on the large-area growth of 2D TMDCs using advanced techniques like CVD and LPCVD. Characterized materials using SEM, Raman Spectroscopy, and gas sensing setups to explore their optoelectronic and sensing properties.
 
-  - title: "Quantum Machine Learning"
+  - name: "Quantum Machine Learning for Image Classification"
+    designation: "Quantum Computing"
+    avatar: "/images/avatar-sm.png"
     content: |
-      Implemented Quantum Convolutional Neural Networks (QCNNs) for image classification, showcasing the potential of quantum algorithms in processing complex datasets.
+      Developed Quantum Convolutional Neural Networks (QCNNs) for efficient image classification. Utilized platforms like Google Colab, PennyLane, and Qiskit to showcase quantum machine learning's potential in data processing.
 
-  - title: "Quantum State Analysis"
+  - name: "Noise Analysis in Quantum States"
+    designation: "Quantum Information"
+    avatar: "/images/avatar-sm.png"
     content: |
-      Investigated the effects of noise channels, including amplitude damping, on Bell states to understand their implications on quantum information robustness.
+      Investigated the effects of amplitude damping and generalized amplitude damping channels on Bell states using Mathematica. This work aimed to understand noise impacts on coherence and entanglement in quantum systems.
 
-  - title: "Environmental Sensor Networks"
+  - name: "Pollution Mitigation Using Nanomaterials"
+    designation: "Environmental Applications"
+    avatar: "/images/avatar-sm.png"
     content: |
-      Integrated nanomaterials and wireless sensor networks to tackle indoor air pollution, bridging material science with environmental applications.
-
+      Combined wireless sensor networks with nanomaterial solutions to tackle indoor air pollution. Designed efficient systems for air quality monitoring and pollutant mitigation.
+  
 _build:
   render: "never"
 ---
