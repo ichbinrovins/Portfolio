@@ -14,11 +14,7 @@ testimonials:
     avatar: "/images/avatar-sm.png"
     content: " Implemented Quantum Convolutional Neural Networks (QCNNs) to process and classify images efficiently. Leveraged platforms like Google Colab, PennyLane, and Qiskit to demonstrate the potential of quantum machine learning in complex data analysis tasks."
 
- - name: "Quantum Machine Learning for Image Classification"
-    designation: "Quantum Computing"
-    avatar: "/images/avatar-sm.png"
-    content: " Implemented Quantum Convolutional Neural Networks (QCNNs) to process and classify images efficiently. Leveraged platforms like Google Colab, PennyLane, and Qiskit to demonstrate the potential of quantum machine learning in complex data analysis tasks."
-    
+
     
 
 
