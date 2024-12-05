@@ -17,7 +17,7 @@ testimonials:
  - name: "Effect of Noise on Quantum States"
     designation: "Quantum Information"
     avatar: "/images/avatar-sm.png"
-    content: "  Investigated the effects of amplitude damping and generalized amplitude damping channels on Bell states using Mathematica. This research provided insights into noise impact on coherence and entanglement in quantum systems."
+    content: " Investigated the effects of amplitude damping and generalized amplitude damping channels on Bell states using Mathematica. This research provided insights into noise impact on coherence and entanglement in quantum systems."
    
   - name: "Pollution Mitigation Using Nanomaterials"
     designation: "Environmental Applications"
