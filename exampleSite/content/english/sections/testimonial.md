@@ -3,32 +3,27 @@
 enable: true
 title: "Research Highlights"
 description: "An overview of key projects and contributions in quantum materials and applications."
-
-# Projects
-features:
-  - name: "Synthesis and Characterization of 2D TMDCs"
-    designation: "Quantum Materials"
+# Testimonials
+testimonials:
+  - name: "Marvin McKinney"
+    designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: |
-      Developed protocols for the large-area synthesis of 2D Transition Metal Dichalcogenides (TMDCs) using advanced techniques like Chemical Vapor Deposition (CVD) and Low-Pressure CVD (LPCVD). Characterized materials using SEM, Raman Spectroscopy, and gas sensing setups to study their properties for sensing and optoelectronic applications.
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Quantum Machine Learning for Image Classification"
-    designation: "Quantum Computing"
+  - name: "Marvin McKinney"
+    designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: |
-      Implemented Quantum Convolutional Neural Networks (QCNNs) to process and classify images efficiently. Leveraged platforms like Google Colab, PennyLane, and Qiskit to demonstrate the potential of quantum machine learning in complex data analysis tasks.
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Effect of Noise on Quantum States"
-    designation: "Quantum Information"
+  - name: "Marvin McKinney"
+    designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: |
-      Investigated the effects of amplitude damping and generalized amplitude damping channels on Bell states using Mathematica. This research provided insights into noise impact on coherence and entanglement in quantum systems.
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Pollution Mitigation Using Nanomaterials"
-    designation: "Environmental Applications"
+  - name: "Marvin McKinney"
+    designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: |
-      Designed wireless sensor networks integrated with nanomaterials to monitor and mitigate indoor air pollution. This project explored innovative solutions for improving indoor air quality through advanced sensing technologies.
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
 # don't create a separate page
 _build:
