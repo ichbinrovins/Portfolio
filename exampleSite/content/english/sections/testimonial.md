@@ -1,31 +1,27 @@
 ---
+# Key Highlights
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Key Research Contributions"
+description: "An overview of significant contributions and projects in quantum materials and related fields."
 
-# Testimonials
-testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+# Highlights
+highlights:
+  - title: "2D Material Synthesis"
+    content: |
+      Developed efficient protocols for the large-area synthesis of 2D TMDCs using advanced fabrication techniques like CVD and LPCVD, enhancing their application in quantum devices.
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - title: "Quantum Machine Learning"
+    content: |
+      Implemented Quantum Convolutional Neural Networks (QCNNs) for image classification, showcasing the potential of quantum algorithms in processing complex datasets.
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - title: "Quantum State Analysis"
+    content: |
+      Investigated the effects of noise channels, including amplitude damping, on Bell states to understand their implications on quantum information robustness.
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - title: "Environmental Sensor Networks"
+    content: |
+      Integrated nanomaterials and wireless sensor networks to tackle indoor air pollution, bridging material science with environmental applications.
 
-# don't create a separate page
 _build:
   render: "never"
 ---
